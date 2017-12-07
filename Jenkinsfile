@@ -4,5 +4,5 @@ node {
    stage 'test'
    echo 'test'
    stage 'deploy'
-   echo 'avengers'
+   echo 'avengers assemble'
  }
